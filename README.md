@@ -4,7 +4,7 @@
 Projetos desenvolvidos para a disciplina Processamento de Imagens, ministrada no segundo semestre de 2020 pelo professor Luiz Velho no IMPA.
 
 | **Assignment** | **Link**  |
-|----------|----------------------------------------------------------------------------------|-----------------|
+|----------|----------------------------------------------------------------------------------|
 | 01 - PyTorch / Collab and MNIST | [link](./assignment1/)      |
 | 02 - Playing with Convnets | link     |
 
